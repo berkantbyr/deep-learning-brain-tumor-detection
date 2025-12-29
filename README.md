@@ -95,7 +95,7 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 
 ## 👤 Geliştirici
 
-Proje geliştiricisi: berka
+Proje geliştiricisi: Berkant Bayar
 
 ---
 
